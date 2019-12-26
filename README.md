@@ -1,3 +1,3 @@
-# PAT_Advanced_Solve
+# PAT_Solution
 C++
 + for the next spring PAT test.
